@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "ufo_placeholder",
+    "path": "sprites/ufo_placeholder/ufo_placeholder.yy",
   },
   "solid": false,
   "visible": true,
@@ -15,7 +15,7 @@
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
-  "physicsAngularDamping": 0.1,
+  "physicsAngularDamping": 100.0,
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
@@ -28,6 +28,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":39,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":37,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":38,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":0,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"thrust_force","tags":[],"resourceType":"GMObjectProperty",},

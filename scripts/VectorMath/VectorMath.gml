@@ -47,3 +47,13 @@ function length_2d(vector){
 function scale_2d(vector, scalar){
 	return [vector[0] * scalar, vector[1] * scalar];	
 }
+
+//Adds a 2d vector to another
+function add_2d(vector1, vector2){
+	return [vector1[0] + vector2[0], vector1[1] + vector2[1]];
+}
+
+//Substract a 2D vector from another
+function substract_2d(vector1, vector2){
+	return [vector1[0] - vector2[0], vector1[1] - vector2[1]];
+}
