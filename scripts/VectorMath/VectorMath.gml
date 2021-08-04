@@ -57,3 +57,7 @@ function add_2d(vector1, vector2){
 function substract_2d(vector1, vector2){
 	return [vector1[0] - vector2[0], vector1[1] - vector2[1]];
 }
+
+function lerp_2d(vector1, vector2, val){
+	return [lerp(vector1[0], vector2[0], val), lerp(vector1[0], vector2[0], val)];
+}
