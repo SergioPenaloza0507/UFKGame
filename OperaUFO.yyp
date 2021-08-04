@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
     {"id":{"name":"Ufo","path":"objects/Ufo/Ufo.yy",},"order":0,},
     {"id":{"name":"ufo_placeholder","path":"sprites/ufo_placeholder/ufo_placeholder.yy",},"order":0,},
     {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":0,},
