@@ -1,11 +1,18 @@
 {
   "resources": [
     {"id":{"name":"ReconstituteCollider","path":"objects/ReconstituteCollider/ReconstituteCollider.yy",},"order":1,},
+    {"id":{"name":"nave","path":"objects/nave/nave.yy",},"order":1,},
+    {"id":{"name":"spawner","path":"objects/spawner/spawner.yy",},"order":3,},
+    {"id":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"order":0,},
+    {"id":{"name":"Asteroid_Brown","path":"sprites/Asteroid_Brown/Asteroid_Brown.yy",},"order":0,},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
     {"id":{"name":"Ufo","path":"objects/Ufo/Ufo.yy",},"order":0,},
     {"id":{"name":"ufo_placeholder","path":"sprites/ufo_placeholder/ufo_placeholder.yy",},"order":0,},
     {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":0,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
+    {"id":{"name":"gato","path":"objects/gato/gato.yy",},"order":2,},
+    {"id":{"name":"_279c04744561021","path":"sprites/_279c04744561021/_279c04744561021.yy",},"order":3,},
+    {"id":{"name":"_21f6aa2ebb5547cb55eab996913e3007_ilustracion_de_nave_espacial","path":"sprites/_21f6aa2ebb5547cb55eab996913e3007_ilustracion_de_nave_espacial/_21f6aa2ebb5547cb55eab996913e3007_ilustracion_de_nave_espacial.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
