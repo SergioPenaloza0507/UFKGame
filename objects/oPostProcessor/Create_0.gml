@@ -8,6 +8,7 @@ texelSize_id = shader_get_uniform(GaussianBlur3x3, "texelSize");
 threshold_id = shader_get_uniform(BloomThresholder, "threshold");
 softKnee_id = shader_get_uniform(BloomThresholder, "softKnee");
 add_sample = shader_get_sampler_index(Add, "addTex");
+lightMultiplier_id = shader_get_uniform(Add, "lightMultiplier");
 
 
 

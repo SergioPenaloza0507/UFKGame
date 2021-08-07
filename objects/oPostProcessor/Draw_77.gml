@@ -27,5 +27,6 @@ for(i = 1; i < iterations; i++){
 shader_set(Add);
 tex = surface_get_texture(surfs[iterations mod 2]);
 texture_set_stage(add_sample, tex);
+shader_set_uniform_f(lightMultiplier_id, lum_strength);
 draw_surface(application_surface,0,0);
 shader_reset();
