@@ -1,12 +1,16 @@
 {
   "resources": [
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
+    {"id":{"name":"worm","path":"objects/worm/worm.yy",},"order":0,},
     {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":0,},
+    {"id":{"name":"instance","path":"objects/instance/instance.yy",},"order":1,},
+    {"id":{"name":"Sandworm_SU","path":"sprites/Sandworm_SU/Sandworm_SU.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
