@@ -5,6 +5,10 @@
     {"id":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"order":0,},
     {"id":{"name":"Asteroid_Brown","path":"sprites/Asteroid_Brown/Asteroid_Brown.yy",},"order":0,},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
+    {"id":{"name":"worm","path":"objects/worm/worm.yy",},"order":0,},
+    {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":0,},
+    {"id":{"name":"instance","path":"objects/instance/instance.yy",},"order":1,},
+    {"id":{"name":"Sandworm_SU","path":"sprites/Sandworm_SU/Sandworm_SU.yy",},"order":0,},
     {"id":{"name":"Ufo","path":"objects/Ufo/Ufo.yy",},"order":0,},
     {"id":{"name":"ufo_placeholder","path":"sprites/ufo_placeholder/ufo_placeholder.yy",},"order":0,},
     {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":0,},
@@ -17,6 +21,7 @@
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
