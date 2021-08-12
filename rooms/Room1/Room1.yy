@@ -14,11 +14,15 @@
   ],
   "layers": [
     {"instances":[
+<<<<<<< HEAD
         {"properties":[],"isDnd":false,"objectId":{"name":"Ufo","path":"objects/Ufo/Ufo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":640.0,"resourceVersion":"1.0","name":"inst_5E2EC6AC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":160.0,"resourceVersion":"1.0","name":"inst_5BF87104","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"gato","path":"objects/gato/gato.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":128.0,"resourceVersion":"1.0","name":"inst_1F81A75E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":192.0,"resourceVersion":"1.0","name":"inst_56195617","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"spawner","path":"objects/spawner/spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":-64.0,"resourceVersion":"1.0","name":"inst_273FD160","tags":[],"resourceType":"GMRInstance",},
+=======
+        {"properties":[],"isDnd":false,"objectId":{"name":"instance","path":"objects/instance/instance.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":352.0,"resourceVersion":"1.0","name":"worm_spawner","tags":[],"resourceType":"GMRInstance",},
+>>>>>>> 7ddeda8db575b20af7c12d9778376c0bbbf52c5e
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -26,11 +30,15 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
+<<<<<<< HEAD
     {"name":"inst_5E2EC6AC","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5BF87104","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_1F81A75E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_56195617","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_273FD160","path":"rooms/Room1/Room1.yy",},
+=======
+    {"name":"worm_spawner","path":"rooms/Room1/Room1.yy",},
+>>>>>>> 7ddeda8db575b20af7c12d9778376c0bbbf52c5e
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -48,7 +56,7 @@
   },
   "physicsSettings": {
     "inheritPhysicsSettings": false,
-    "PhysicsWorld": true,
+    "PhysicsWorld": false,
     "PhysicsWorldGravityX": 0.0,
     "PhysicsWorldGravityY": 10.0,
     "PhysicsWorldPixToMetres": 0.1,
