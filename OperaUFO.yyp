@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"ReconstituteCollider","path":"objects/ReconstituteCollider/ReconstituteCollider.yy",},"order":1,},
     {"id":{"name":"spawner","path":"objects/spawner/spawner.yy",},"order":3,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
     {"id":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"order":0,},
     {"id":{"name":"Asteroid_Brown","path":"sprites/Asteroid_Brown/Asteroid_Brown.yy",},"order":0,},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
@@ -12,7 +13,6 @@
     {"id":{"name":"gato","path":"objects/gato/gato.yy",},"order":2,},
     {"id":{"name":"_279c04744561021","path":"sprites/_279c04744561021/_279c04744561021.yy",},"order":3,},
     {"id":{"name":"_21f6aa2ebb5547cb55eab996913e3007_ilustracion_de_nave_espacial","path":"sprites/_21f6aa2ebb5547cb55eab996913e3007_ilustracion_de_nave_espacial/_21f6aa2ebb5547cb55eab996913e3007_ilustracion_de_nave_espacial.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -27,12 +27,12 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds.yy","order":3,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Paths.yy","order":4,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts.yy","order":5,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Shaders.yy","order":6,"resourceVersion":"1.0","name":"Shaders","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Fonts.yy","order":7,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
