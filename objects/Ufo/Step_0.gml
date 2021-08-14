@@ -11,7 +11,7 @@ accumulated_thrust = [
 ];
 
 //Normalize sum of directions
-if(y>25 and y< room_height-room_height/3){
+if(y>room_height-25 and y< room_height/3){
 accumulated_thrust = normalize_2d(accumulated_thrust);
 }
 
