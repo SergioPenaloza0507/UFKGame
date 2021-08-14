@@ -13,6 +13,7 @@
     {"id":{"name":"Group_36__1_","path":"sprites/Group_36__1_/Group_36__1_.yy",},"order":6,},
     {"id":{"name":"Group_31","path":"sprites/Group_31/Group_31.yy",},"order":4,},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
+    {"id":{"name":"ScoreUtils","path":"scripts/ScoreUtils/ScoreUtils.yy",},"order":3,},
     {"id":{"name":"Group_18","path":"sprites/Group_18/Group_18.yy",},"order":8,},
     {"id":{"name":"worm","path":"objects/worm/worm.yy",},"order":0,},
     {"id":{"name":"Progressor","path":"objects/Progressor/Progressor.yy",},"order":4,},
