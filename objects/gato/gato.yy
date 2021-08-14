@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "_279c04744561021",
-    "path": "sprites/_279c04744561021/_279c04744561021.yy",
+    "name": "Group_18",
+    "path": "sprites/Group_18/Group_18.yy",
   },
   "solid": false,
   "visible": true,

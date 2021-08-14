@@ -1,14 +1,14 @@
 {
   "spriteId": {
-    "name": "Sandworm_SU",
-    "path": "sprites/Sandworm_SU/Sandworm_SU.yy",
+    "name": "Group_22",
+    "path": "sprites/Group_22/Group_22.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
-  "physicsObject": true,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,

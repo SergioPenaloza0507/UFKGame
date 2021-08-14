@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "ufo_placeholder",
-    "path": "sprites/ufo_placeholder/ufo_placeholder.yy",
+    "name": "Group_36",
+    "path": "sprites/Group_36/Group_36.yy",
   },
   "solid": true,
   "visible": true,

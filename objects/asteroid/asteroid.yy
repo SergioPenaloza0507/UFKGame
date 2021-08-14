@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Asteroid_Brown",
-    "path": "sprites/Asteroid_Brown/Asteroid_Brown.yy",
+    "name": "Group_31",
+    "path": "sprites/Group_31/Group_31.yy",
   },
   "solid": false,
   "visible": true,

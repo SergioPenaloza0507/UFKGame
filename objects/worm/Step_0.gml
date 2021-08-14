@@ -14,3 +14,5 @@ switch(direction_face){
 }
 
 speed = worm_vel;
+x+=speed;
+
