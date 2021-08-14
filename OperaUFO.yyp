@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Artboard_1","path":"sprites/Artboard_1/Artboard_1.yy",},"order":19,},
     {"id":{"name":"spawner","path":"objects/spawner/spawner.yy",},"order":3,},
     {"id":{"name":"Group_38","path":"sprites/Group_38/Group_38.yy",},"order":16,},
     {"id":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"order":0,},
