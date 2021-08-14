@@ -5,7 +5,6 @@
     {"id":{"name":"spawner","path":"objects/spawner/spawner.yy",},"order":3,},
     {"id":{"name":"Group_38","path":"sprites/Group_38/Group_38.yy",},"order":16,},
     {"id":{"name":"puntajes","path":"fonts/puntajes/puntajes.yy",},"order":0,},
-    {"id":{"name":"Artboard_1","path":"sprites/Artboard_1/Artboard_1.yy",},"order":27,},
     {"id":{"name":"DataSerializer","path":"scripts/DataSerializer/DataSerializer.yy",},"order":2,},
     {"id":{"name":"asteroid","path":"objects/asteroid/asteroid.yy",},"order":0,},
     {"id":{"name":"Recurso_2","path":"sprites/Recurso_2/Recurso_2.yy",},"order":10,},
@@ -15,6 +14,7 @@
     {"id":{"name":"bad_ending","path":"rooms/bad_ending/bad_ending.yy",},"order":2,},
     {"id":{"name":"select_player_number","path":"objects/select_player_number/select_player_number.yy",},"order":4,},
     {"id":{"name":"Group_36__1_","path":"sprites/Group_36__1_/Group_36__1_.yy",},"order":6,},
+    {"id":{"name":"Artboard_1","path":"sprites/Artboard_1/Artboard_1.yy",},"order":26,},
     {"id":{"name":"Group_31","path":"sprites/Group_31/Group_31.yy",},"order":4,},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
     {"id":{"name":"ScoreUtils","path":"scripts/ScoreUtils/ScoreUtils.yy",},"order":3,},
@@ -78,7 +78,9 @@
   "TextureGroups": [
     {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"Artboard 1.svg","resourceType":"GMIncludedFile",},
+  ],
   "MetaData": {
     "IDEVersion": "2.3.3.574",
   },
