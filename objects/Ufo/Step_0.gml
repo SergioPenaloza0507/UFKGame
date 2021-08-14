@@ -1,7 +1,18 @@
 /// @description Sum forces and apply to object
 
-if (y > (window_get_height()/6) *5 ) {
+if (y > (window_get_height()-50)) {
   phy_speed_y = -5;
+}
+if (y < (window_get_height()/2)-100 ) {
+  phy_speed_y = +5;
+}
+
+if (x > (window_get_width()-100)) {
+  phy_speed_x = -5;
+}
+
+if (x < 100 ) {
+  phy_speed_x = +5;
 }
 
 //Get frame independent time delta in seconds
@@ -15,9 +26,11 @@ accumulated_thrust = [
 ];
 
 //Normalize sum of directions
-if(y>room_height-25 and y< room_height/3){
-accumulated_thrust = normalize_2d(accumulated_thrust);
+if(y>window_get_height()/2){
+	accumulated_thrust = normalize_2d(accumulated_thrust);
 }
+
+
 
 
 //Apply physics impulse with object parameters
