@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"Snake","path":"sprites/Snake/Snake.yy",},"order":25,},
+    {"id":{"name":"start","path":"rooms/start/start.yy",},"order":1,},
     {"id":{"name":"Artboard_1","path":"sprites/Artboard_1/Artboard_1.yy",},"order":19,},
     {"id":{"name":"spawner","path":"objects/spawner/spawner.yy",},"order":3,},
     {"id":{"name":"Group_38","path":"sprites/Group_38/Group_38.yy",},"order":16,},
@@ -9,6 +11,7 @@
     {"id":{"name":"Recurso_4","path":"sprites/Recurso_4/Recurso_4.yy",},"order":12,},
     {"id":{"name":"Vector_36","path":"sprites/Vector_36/Vector_36.yy",},"order":18,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"select_player_number","path":"objects/select_player_number/select_player_number.yy",},"order":4,},
     {"id":{"name":"Group_36__1_","path":"sprites/Group_36__1_/Group_36__1_.yy",},"order":6,},
     {"id":{"name":"Group_31","path":"sprites/Group_31/Group_31.yy",},"order":4,},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":1,},
@@ -26,7 +29,6 @@
     {"id":{"name":"Group_36","path":"sprites/Group_36/Group_36.yy",},"order":5,},
     {"id":{"name":"Group_37","path":"sprites/Group_37/Group_37.yy",},"order":17,},
     {"id":{"name":"gato","path":"objects/gato/gato.yy",},"order":2,},
-    {"id":{"name":"Group_22","path":"sprites/Group_22/Group_22.yy",},"order":9,},
     {"id":{"name":"Group_35","path":"sprites/Group_35/Group_35.yy",},"order":7,},
   ],
   "Options": [
@@ -42,6 +44,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"start","path":"rooms/start/start.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
