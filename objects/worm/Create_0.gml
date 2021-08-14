@@ -4,10 +4,10 @@ direction_face = worm_spawner.direction_obj;
 worm_vel = 0;
 switch(direction_face){
 	case 0:
-		image_xscale=-1;
-		worm_vel = 30;
+		worm_vel = 20;
 	break;
 	case 1:
-		worm_vel = -30;
+	image_xscale=-1;
+	worm_vel = -20;
 	break;
 }
