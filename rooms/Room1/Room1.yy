@@ -16,7 +16,11 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"instance","path":"objects/instance/instance.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":96.0,"resourceVersion":"1.0","name":"worm_spawner","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"spawner","path":"objects/spawner/spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":160.0,"resourceVersion":"1.0","name":"inst_2324146E","tags":[],"resourceType":"GMRInstance",},
+<<<<<<< HEAD
         {"properties":[],"isDnd":false,"objectId":{"name":"Ufo","path":"objects/Ufo/Ufo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":480.0,"resourceVersion":"1.0","name":"inst_5D7F8DC7","tags":[],"resourceType":"GMRInstance",},
+=======
+        {"properties":[],"isDnd":false,"objectId":{"name":"score_view","path":"objects/score_view/score_view.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":32.0,"resourceVersion":"1.0","name":"inst_78F3009B","tags":[],"resourceType":"GMRInstance",},
+>>>>>>> af4559ef4599a26a4afd50877ed0de6ab6c67b78
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"Artboard_1","path":"sprites/Artboard_1/Artboard_1.yy",},"colour":4294967295,"x":0,"y":-3650,"htiled":false,"vtiled":true,"hspeed":0.0,"vspeed":10.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -26,7 +30,11 @@
   "instanceCreationOrder": [
     {"name":"worm_spawner","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2324146E","path":"rooms/Room1/Room1.yy",},
+<<<<<<< HEAD
     {"name":"inst_5D7F8DC7","path":"rooms/Room1/Room1.yy",},
+=======
+    {"name":"inst_78F3009B","path":"rooms/Room1/Room1.yy",},
+>>>>>>> af4559ef4599a26a4afd50877ed0de6ab6c67b78
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

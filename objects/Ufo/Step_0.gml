@@ -1,5 +1,9 @@
 /// @description Sum forces and apply to object
 
+if (y > (window_get_height()/6) *5 ) {
+  phy_speed_y = -5;
+}
+
 //Get frame independent time delta in seconds
 time_scale = delta_time * global.Mic2Sec;
 
@@ -33,3 +37,4 @@ accumulated_angle = clamp(
 
 //Apply current rotation
 phy_rotation  = accumulated_angle;
+
